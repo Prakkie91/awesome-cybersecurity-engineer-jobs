@@ -74,6 +74,7 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qogfqwtschjchtjlzyr3.webp" width="24" height="24" alt="Crowdstrike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Crowdstrike](https://jobo.world/company/Crowdstrike)
 
+* **[Continuous Improvement Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Continuous-Improvement-Engineer--Remote-_R23611)** — _n/a_ _(posted 2025-06-23)_
 * **[Sr. Consultant - Red Team Blue Team (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Consultant---Cloud-Red-Team-Blue-Team--Remote-_R23579)** — _n/a_ _(posted 2025-06-20)_
 * **[Software Engineer III - Sensor IDP (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Software-Engineer-III---Sensor-IDP--Remote-_R23505-1)** — _n/a_ _(posted 2025-06-18)_
 * **[Security Architect - IAM (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Security-Architect---IAM--Remote-_R23548)** — _n/a_ _(posted 2025-06-17)_
@@ -127,6 +128,10 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vxwchnvnoozhprfexqf6.webp" width="24" height="24" alt="Graphite logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Graphite](https://jobo.world/company/Graphite)
 
 * **[Cybersecurity Digital Content Writer](https://jobs.ashbyhq.com/graphitehq/56528d51-6860-47eb-873a-78d3e6ec482a)** — _n/a_ _(posted 2025-03-12)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lckoe8u549c4uyed6ahu.webp" width="24" height="24" alt="Grow Therapy logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Grow Therapy](https://jobo.world/company/Grow-Therapy)
+
+* **[Senior/ Staff Security Engineer, Detection and Response](https://boards.greenhouse.io/growtherapy/jobs/4536646005)** — ¤168,000 – ¤220,000 USD _(posted 2025-03-14)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ndsgzy63mycn4gatbqgq.webp" width="24" height="24" alt="Headspace logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Headspace](https://jobo.world/company/Headspace)
 
@@ -229,10 +234,6 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 * **[Field Engineer (Active Clearance Required)](https://boards.greenhouse.io/shift5/jobs/4337057004)** — _n/a_ _(posted 2025-03-14)_
 * **[Sales Engineer](https://boards.greenhouse.io/shift5/jobs/5459545004)** — _n/a_ _(posted 2025-03-14)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/omuszbxxi40zo5a3n10x.webp" width="24" height="24" alt="Snowflake logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Snowflake](https://jobo.world/company/Snowflake)
-
-* **[Senior Security Engineer, Endpoint Security](https://jobs.ashbyhq.com/snowflake/67f4c0aa-40fa-4fab-82a9-9165c9e9f6a8)** — ¤198,000 – ¤303,600 USD _(posted 2025-06-18)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wipjaspog6ixymh0ggpq.webp" width="24" height="24" alt="SonicWall logo" style="vertical-align:middle"/>&nbsp;&nbsp;[SonicWall](https://jobo.world/company/SonicWall)
 
 * **[Inside Solutions Engineer](https://job-boards.greenhouse.io/sonicwall/jobs/6715537)** — _n/a_ _(posted 2025-05-16)_
@@ -266,10 +267,6 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 
 * **[Senior Cybersecurity Engineer](https://jobs.ashbyhq.com/wander/4e417ae5-f73b-4096-8977-cd5c23d02960)** — _n/a_ _(posted 2025-03-12)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/company_logo.webp" width="24" height="24" alt="World Kinect logo" style="vertical-align:middle"/>&nbsp;&nbsp;[World Kinect](https://jobo.world/company/World-Kinect)
-
-* **[IT Identity Engineer III](https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/MIAMI-FL-Remote/IT-Identity-Engineer-III_R21286)** — ¤60,000 – ¤90,000 USD _(posted 2025-05-15)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/iqozuicibuaieg1a9yky.webp" width="24" height="24" alt="Yubico logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Yubico](https://jobo.world/company/Yubico)
 
 * **[Senior Sales Engineer / Solutions Engineer, Eastern](https://jobs.lever.co/yubico/a0117103-a958-42c1-ba58-7cae14ab2ab9)** — _n/a_ _(posted 2025-06-16)_
@@ -284,4 +281,4 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 * **[Staff Network Engineer-Federal](https://job-boards.greenhouse.io/zscaler/jobs/4710728007)** — _n/a_ _(posted 2025-05-31)_
 
 ---
-_Updated automatically — 2025-06-24_
+_Updated automatically — 2025-06-25_
