@@ -74,6 +74,7 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qogfqwtschjchtjlzyr3.webp" width="24" height="24" alt="Crowdstrike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Crowdstrike](https://jobo.world/company/Crowdstrike)
 
+* **[Cloud Sales Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-MA/Cloud-Sales-Engineer--Remote-_R23677)** — _n/a_ _(posted 2025-06-30)_
 * **[Sr. Engineering Manager-Exposure Management(Network Vulnerability Detection)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Sr-Engineering-Manager-Exposure-Management-Network-Vulnerability-Detection-_R23682)** — _n/a_ _(posted 2025-06-26)_
 * **[Director of Engineering, Sensor Development Tooling (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Director-of-Engineering--Sensor-Development-Tooling--Remote-_R23673)** — _n/a_ _(posted 2025-06-26)_
 * **[Engineer III, Cloud - Graph Systems (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-III--Cloud---Graph-Systems--Remote-_R23674)** — _n/a_ _(posted 2025-06-26)_
@@ -178,7 +179,6 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pnwdqpdiaxfiitadf4ga.webp" width="24" height="24" alt="Modernizing Medicine logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Modernizing Medicine](https://jobo.world/company/ModMed)
 
 * **[GRC Analyst](https://job-boards.greenhouse.io/modernizingmedicineinc/jobs/8043145002)** — _n/a_ _(posted 2025-06-20)_
-* **[Lead Cloud Security Engineer](https://job-boards.greenhouse.io/modernizingmedicineinc/jobs/8038925002)** — _n/a_ _(posted 2025-06-18)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/txhnjc4c5hu3msapwpp7.webp" width="24" height="24" alt="NVIDIA logo" style="vertical-align:middle"/>&nbsp;&nbsp;[NVIDIA](https://jobo.world/company/NVIDIA)
 
@@ -278,4 +278,4 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 * **[Staff Network Engineer-Federal](https://job-boards.greenhouse.io/zscaler/jobs/4710728007)** — _n/a_ _(posted 2025-05-31)_
 
 ---
-_Updated automatically — 2025-06-30_
+_Updated automatically — 2025-07-01_
