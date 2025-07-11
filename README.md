@@ -67,6 +67,8 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qogfqwtschjchtjlzyr3.webp" width="24" height="24" alt="Crowdstrike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Crowdstrike](https://jobo.world/company/Crowdstrike)
 
+* **[Engineer III - Content Systems (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-III---Content-Systems--Remote-_R23746)** — _n/a_ _(posted 2025-07-09)_
+* **[Sr. Director, Attack Surface Management, AI Security and Security Research (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Director--Attack-Surface-Management--AI-Security-and-Security-Research--Remote-_R23866)** — _n/a_ _(posted 2025-07-09)_
 * **[SkillBridge CSIRT, Incident Response Analyst (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/SkillBridge-CSIRT--Incident-Response-Analyst--Remote-_R23784)** — _n/a_ _(posted 2025-07-07)_
 * **[Sr. Sensor SDET (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-VA/Sr-Sensor-SDET--Remote-_R23760)** — _n/a_ _(posted 2025-07-07)_
 * **[Cloud Software Engineer III - Exposure Management (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Cloud-Software-Engineer-III---Exposure-Management--Remote-_R23767-1)** — _n/a_ _(posted 2025-07-02)_
@@ -91,10 +93,6 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 
 * **[Senior Manager, IT Security](https://jobs.ashbyhq.com/dandy/e1f7b3a6-c79a-414a-962c-a18a13a8b9a0)** — ¤166,000 – ¤207,000 USD _(posted 2025-06-25)_
 * **[Staff Software Engineer - Security](https://jobs.ashbyhq.com/dandy/8a9ba1b1-842f-4d5a-844f-3273448e8717)** — ¤230,000 – ¤257,000 USD _(posted 2025-05-22)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qu9jqnedghpqqymgn9qw.webp" width="24" height="24" alt="Docker logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Docker](https://jobo.world/company/Docker)
-
-* **[Director, Security](https://jobs.ashbyhq.com/docker/7dea51f4-0b48-4637-9537-40436317c43a)** — ¤300,000 – ¤375,000 USD _(posted 2025-07-04)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rtyne9b2pdyqncaygzud.webp" width="24" height="24" alt="Earnest logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Earnest](https://jobo.world/company/Earnest)
 
@@ -265,10 +263,6 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 
 * **[Cloud Security Engineer](https://job-boards.greenhouse.io/swishanalytics/jobs/4582161005)** — _n/a_ _(posted 2025-07-02)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ow6rhitoxq427irmxmdy.webp" width="24" height="24" alt="Symbotic logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Symbotic](https://jobo.world/company/symbotic)
-
-* **[Network Installation Engineer](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Network-Installation-Engineer_R5056)** — _n/a_ _(posted 2025-07-08)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/virxoe3cpqyhy8mcvvfm.webp" width="24" height="24" alt="Thirty Madison  logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Thirty Madison ](https://jobo.world/company/ThirtyMadison)
 
 * **[Senior Engineer ll, Security](https://job-boards.greenhouse.io/thirtymadison/jobs/8052631002)** — ¤174,400 – ¤239,800 USD _(posted 2025-06-27)_
@@ -290,4 +284,4 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 * **[Resident Engineer](https://job-boards.greenhouse.io/zscaler/jobs/4748890007)** — _n/a_ _(posted 2025-06-14)_
 
 ---
-_Updated automatically — 2025-07-10_
+_Updated automatically — 2025-07-11_
