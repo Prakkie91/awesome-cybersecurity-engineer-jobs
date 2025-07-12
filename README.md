@@ -52,10 +52,6 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 
 * **[Security Engineer](https://jobs.ashbyhq.com/chronospherejobs/12995d96-b168-42bc-becf-f9de398434d7)** — ¤200,000 – ¤250,000 USD _(posted 2025-06-05)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/yrhltbcatnpx6bjoymt2.webp" width="24" height="24" alt="Clairo logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Clairo](https://jobo.world/company/Clairo)
-
-* **[Cybersecurity Incident Response Analyst](https://clarioclinical.wd1.myworkdayjobs.com/clarioclinical_careers/job/United-States-Remote/Cybersecurity-Incident-Response-Analyst_R16236)** — _n/a_ _(posted 2025-07-07)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ip5pf6ew5hvfz7juafjm.webp" width="24" height="24" alt="Clerk logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Clerk](https://jobo.world/company/Clerk)
 
 * **[Product Security Engineer](https://jobs.ashbyhq.com/clerk/77d766db-7ea2-48ab-af79-220eca8a098b)** — _n/a_ _(posted 2025-04-30)_
@@ -67,6 +63,8 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qogfqwtschjchtjlzyr3.webp" width="24" height="24" alt="Crowdstrike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Crowdstrike](https://jobo.world/company/Crowdstrike)
 
+* **[Cybersecurity Technical Project Manager (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Cybersecurity-Technical-Project-Manager--Remote-_R23839)** — _n/a_ _(posted 2025-07-11)_
+* **[Security Researcher - Malware Reverse Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Security-Researcher---Malware-Reverse-Engineer--Remote-_R23797)** — _n/a_ _(posted 2025-07-10)_
 * **[Engineer III - Content Systems (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-III---Content-Systems--Remote-_R23746)** — _n/a_ _(posted 2025-07-09)_
 * **[Sr. Director, Attack Surface Management, AI Security and Security Research (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Director--Attack-Surface-Management--AI-Security-and-Security-Research--Remote-_R23866)** — _n/a_ _(posted 2025-07-09)_
 * **[SkillBridge CSIRT, Incident Response Analyst (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/SkillBridge-CSIRT--Incident-Response-Analyst--Remote-_R23784)** — _n/a_ _(posted 2025-07-07)_
@@ -82,7 +80,6 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 * **[Software Engineer III - Sensor IDP (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Software-Engineer-III---Sensor-IDP--Remote-_R23505-1)** — _n/a_ _(posted 2025-06-18)_
 * **[Security Architect - IAM (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Security-Architect---IAM--Remote-_R23548)** — _n/a_ _(posted 2025-06-17)_
 * **[Platform Professional Services Consultant (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-NY/Platform-Professional-Services-Consultant--Remote-_R23302)** — _n/a_ _(posted 2025-05-22)_
-* **[Sr. Software Engineer, Backend - Ingestion (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Software-Engineer--Backend---Ingestion--Remote-_R23200)** — _n/a_ _(posted 2025-05-16)_
 * **[Engineering Manager, Sensor (Remote, East Coast)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-MD/Engineering-Manager--Sensor--Remote--East-Coast-_R23143)** — _n/a_ _(posted 2025-05-15)_
 * **[Detection Engineer, Falcon Complete (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Detection-Engineer--Falcon-Complete--Remote-_R23178)** — _n/a_ _(posted 2025-05-12)_
 * **[Regional Sales Engineer, PubSec (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CO/Regional-Sales-Engineer--PubSec--Remote-_R23124)** — _n/a_ _(posted 2025-05-06)_
@@ -134,6 +131,7 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zcr2yjsivoviphozj9y6.webp" width="24" height="24" alt="Humana logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Humana](https://jobo.world/company/Humana)
 
+* **[Senior Offensive Security Engineer](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Senior-Offensive-Security-Engineer_R-382167)** — _n/a_ _(posted 2025-07-10)_
 * **[CyberSecurity Engineer](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/CyberSecurity-Engineer_R-381711)** — _n/a_ _(posted 2025-07-08)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tbsfjuwuyescyatdwvwq.webp" width="24" height="24" alt="Huntress logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Huntress](https://jobo.world/company/Huntress)
@@ -150,14 +148,14 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 
 * **[Cyber Security Consultant - Saudi Region](https://jobs.ashbyhq.com/immersivelabs/43091186-239d-4d00-9537-aa1b9295dcd8)** — _n/a_ _(posted 2025-04-30)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lzpjhjgwtoqmqlja1op6.webp" width="24" height="24" alt="Injective Labs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Injective Labs](https://jobo.world/company/Injective-Labs)
+
+* **[Security Engineer](https://jobs.ashbyhq.com/injective-labs/cb59e282-9bc9-48cb-aff5-22c3af1e95f8)** — _n/a_ _(posted 2025-07-11)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lvwq9crawrrfibndxzho.webp" width="24" height="24" alt="Keeper Security logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Keeper Security](https://jobo.world/company/Keeper-Security)
 
 * **[Senior Software Engineer, Integrations (Fullstack)](https://apply.workable.com/keepersecurity/j/9E9F64FB8D/)** — _n/a_ _(posted 2025-06-30)_
 * **[Systems Support Engineer](https://apply.workable.com/keepersecurity/j/447286DBB1/)** — _n/a_ _(posted 2025-03-28)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/jwxdgigobys7pie3h5ns.webp" width="24" height="24" alt="LaunchDarkly logo" style="vertical-align:middle"/>&nbsp;&nbsp;[LaunchDarkly](https://jobo.world/company/LaunchDarkly)
-
-* **[Sr. Solutions Engineer (Public/Private Sector)](https://job-boards.greenhouse.io/launchdarkly/jobs/6570447003)** — _n/a_ _(posted 2025-07-03)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hesgrps2yoe7xg9xzzi0.webp" width="24" height="24" alt="M&T Bank logo" style="vertical-align:middle"/>&nbsp;&nbsp;[M&T Bank](https://jobo.world/company/M-And-T-Bank)
 
@@ -181,7 +179,6 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mtjdghbxvseizkan336m.webp" width="24" height="24" alt="OpenAI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[OpenAI](https://jobo.world/company/OpenAI)
 
-* **[Data Center Security Technical Lead](https://jobs.ashbyhq.com/openai/a077a840-f0c6-4ff6-86fa-b150b3d9d328)** — ¤490,000 USD _(posted 2025-07-09)_
 * **[Security Engineer, Threat Intelligence](https://jobs.ashbyhq.com/openai/0a1831ac-752d-496c-9d48-e8309afc12d9)** — ¤260,000 – ¤405,000 USD _(posted 2025-06-25)_
 * **[Enterprise Security Engineer](https://jobs.ashbyhq.com/openai/47048627-427e-4566-b349-847e52a5def1)** — ¤260,000 – ¤325,000 USD _(posted 2025-05-13)_
 * **[Security Engineer, Data Center Security](https://jobs.ashbyhq.com/openai/4efa5099-9fc6-459b-8ace-c47fb8677f90)** — ¤346,500 – ¤465,000 USD _(posted 2025-03-12)_
@@ -227,19 +224,15 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 
 * **[Application Security Engineer](https://job-boards.greenhouse.io/rxsense/jobs/4582046005)** — _n/a_ _(posted 2025-07-09)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/oaw4ct5gyw4fxhtdshgo.webp" width="24" height="24" alt="Sanity logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Sanity](https://jobo.world/company/Sanityio)
-
-* **[Senior Product Security Engineer](https://jobs.ashbyhq.com/sanity/0e37bc20-f8de-44fb-977d-e2c3ca41c185)** — _n/a_ _(posted 2025-05-02)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zn4umzvmywnnpmqzyjoi.webp" width="24" height="24" alt="Sardine logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Sardine](https://jobo.world/company/Sardine)
 
 * **[Enterprise Sales Engineer](https://jobs.ashbyhq.com/sardine/850f5ea2-0d73-4b9c-be41-8e23f8ba24bb)** — ¤200,000 – ¤240,000 USD _(posted 2025-05-13)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/w1bo7icmsyka4gglxpty.webp" width="24" height="24" alt="ServiceNow logo" style="vertical-align:middle"/>&nbsp;&nbsp;[ServiceNow](https://jobo.world/company/ServiceNow)
 
-* **[Senior Information Security Analyst](https://jobs.smartrecruiters.com/ServiceNow/744000069400906-senior-information-security-analyst?oga=true)** — _n/a_ _(posted 2025-07-08)_
-* **[Senior Information Security Analyst](https://jobs.smartrecruiters.com/ServiceNow/744000069402087-senior-information-security-analyst?oga=true)** — _n/a_ _(posted 2025-07-08)_
-* **[Senior Information Security Analyst](https://jobs.smartrecruiters.com/ServiceNow/744000069400485-senior-information-security-analyst?oga=true)** — _n/a_ _(posted 2025-07-08)_
+* **[Senior Information Security Analyst](https://jobs.smartrecruiters.com/ServiceNow/744000069877931-senior-information-security-analyst?oga=true)** — _n/a_ _(posted 2025-07-10)_
+* **[Senior Information Security Analyst](https://jobs.smartrecruiters.com/ServiceNow/744000069876603-senior-information-security-analyst?oga=true)** — _n/a_ _(posted 2025-07-10)_
+* **[Senior Information Security Analyst](https://jobs.smartrecruiters.com/ServiceNow/744000069877636-senior-information-security-analyst?oga=true)** — _n/a_ _(posted 2025-07-10)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xtluyxvy2bihcc746mgd.webp" width="24" height="24" alt="Shift5 logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Shift5](https://jobo.world/company/Shift5)
 
@@ -255,6 +248,7 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/msxoxo4ksiqqz5qsape7.webp" width="24" height="24" alt="SpyCloud logo" style="vertical-align:middle"/>&nbsp;&nbsp;[SpyCloud](https://jobo.world/company/SpyCloud)
 
+* **[Sales Engineer - Federal](https://job-boards.greenhouse.io/spycloud/jobs/6642884003)** — _n/a_ _(posted 2025-07-11)_
 * **[Senior Security Research Engineer](https://job-boards.greenhouse.io/spycloud/jobs/6608205003)** — _n/a_ _(posted 2025-06-18)_
 * **[Security Engineer, Infrastructure Security](https://job-boards.greenhouse.io/spycloud/jobs/6605814003)** — _n/a_ _(posted 2025-06-13)_
 * **[Sales Engineer - West](https://job-boards.greenhouse.io/spycloud/jobs/6565478003)** — _n/a_ _(posted 2025-05-06)_
@@ -284,4 +278,4 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 * **[Resident Engineer](https://job-boards.greenhouse.io/zscaler/jobs/4748890007)** — _n/a_ _(posted 2025-06-14)_
 
 ---
-_Updated automatically — 2025-07-11_
+_Updated automatically — 2025-07-12_
