@@ -9,7 +9,6 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xrhzpur0rgprhnivjeq9.webp" width="24" height="24" alt="1Password logo" style="vertical-align:middle"/>&nbsp;&nbsp;[1Password](https://jobo.world/company/1Password)
 
 * **[Sr. Content Marketing Manager](https://jobs.lever.co/1password/04a8738b-59d3-4a95-89c7-55ead7806b03)** — _n/a_ _(posted 2025-04-22)_
-* **[Sr Product Marketing Manager, Enterprise Segment](https://jobs.lever.co/1password/2512a059-c79f-44c2-b0a4-1d5912e6a15f)** — _n/a_ _(posted 2025-04-16)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ytq0iq1fcp579zoqmu0w.webp" width="24" height="24" alt="Aledade logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Aledade](https://jobo.world/company/Aledade)
 
@@ -136,10 +135,6 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 
 * **[Security Engineer](https://jobs.ashbyhq.com/injective-labs/cb59e282-9bc9-48cb-aff5-22c3af1e95f8)** — _n/a_ _(posted 2025-07-11)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/jreiehb6pj49uiatllvw.webp" width="24" height="24" alt="Juniper Square logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Juniper Square](https://jobo.world/company/JuniperSquare)
-
-* **[Senior GRC Analyst](https://jobs.ashbyhq.com/junipersquare/b66e4c7c-ef37-42fc-939e-6ece4e99b57b)** — _n/a_ _(posted 2025-07-10)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lvwq9crawrrfibndxzho.webp" width="24" height="24" alt="Keeper Security logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Keeper Security](https://jobo.world/company/Keeper-Security)
 
 * **[QA Analyst, Privilege Access Management](https://apply.workable.com/keepersecurity/j/589ABBA21B/)** — _n/a_ _(posted 2025-06-30)_
@@ -178,10 +173,6 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hoiffrjwxhjbscx2ws1q.webp" width="24" height="24" alt="OpenSea logo" style="vertical-align:middle"/>&nbsp;&nbsp;[OpenSea](https://jobo.world/company/OpenSea)
 
 * **[Head of Security](https://jobs.ashbyhq.com/opensea/3b405802-3c7e-4e4d-b3b7-1b797d1b4b94)** — _n/a_ _(posted 2025-05-15)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ltac3krwfzg3q6rnaqpw.webp" width="24" height="24" alt="Palo Alto Networks logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Palo Alto Networks](https://jobo.world/company/Palo-Alto-Networks)
-
-* **[Sr. Professional Services Consultant, NGFW](https://jobs.smartrecruiters.com/PaloAltoNetworks2/744000060049895-sr-professional-services-consultant-ngfw?oga=true)** — _n/a_ _(posted 2025-05-16)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zvn1ylulhsyyowqu95ym.webp" width="24" height="24" alt="PatientPoint logo" style="vertical-align:middle"/>&nbsp;&nbsp;[PatientPoint](https://jobo.world/company/PatientPoint)
 
@@ -232,6 +223,10 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/w1bo7icmsyka4gglxpty.webp" width="24" height="24" alt="ServiceNow logo" style="vertical-align:middle"/>&nbsp;&nbsp;[ServiceNow](https://jobo.world/company/ServiceNow)
 
+* **[Staff Information Security Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000070554741-staff-information-security-engineer?oga=true)** — _n/a_ _(posted 2025-07-14)_
+* **[Staff Information Security Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000070556197-staff-information-security-engineer?oga=true)** — _n/a_ _(posted 2025-07-14)_
+* **[Staff Information Security Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000070556125-staff-information-security-engineer?oga=true)** — _n/a_ _(posted 2025-07-14)_
+* **[Staff Information Security Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000070555645-staff-information-security-engineer?oga=true)** — _n/a_ _(posted 2025-07-14)_
 * **[Senior Information Security Analyst](https://jobs.smartrecruiters.com/ServiceNow/744000069877931-senior-information-security-analyst?oga=true)** — _n/a_ _(posted 2025-07-10)_
 * **[Senior Information Security Analyst](https://jobs.smartrecruiters.com/ServiceNow/744000069876603-senior-information-security-analyst?oga=true)** — _n/a_ _(posted 2025-07-10)_
 * **[Senior Information Security Analyst](https://jobs.smartrecruiters.com/ServiceNow/744000069877636-senior-information-security-analyst?oga=true)** — _n/a_ _(posted 2025-07-10)_
@@ -244,10 +239,6 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 
 * **[Staff Security Program Manager](https://job-boards.greenhouse.io/sonicwall/jobs/6949878)** — _n/a_ _(posted 2025-06-11)_
 * **[Cloud Solution Specialist and Trainer](https://boards.greenhouse.io/sonicwall/jobs/6331721)** — _n/a_ _(posted 2025-03-22)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/y7ml2fdih8xswfhaguob.webp" width="24" height="24" alt="SpecterOps logo" style="vertical-align:middle"/>&nbsp;&nbsp;[SpecterOps](https://jobo.world/company/SpecterOps)
-
-* **[Senior Defensive Security Consultant](https://job-boards.greenhouse.io/specterops/jobs/7724315002)** — ¤90,000 – ¤160,000 USD _(posted 2025-03-30)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/msxoxo4ksiqqz5qsape7.webp" width="24" height="24" alt="SpyCloud logo" style="vertical-align:middle"/>&nbsp;&nbsp;[SpyCloud](https://jobo.world/company/SpyCloud)
 
@@ -305,4 +296,4 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 * **[Resident Engineer](https://job-boards.greenhouse.io/zscaler/jobs/4748890007)** — _n/a_ _(posted 2025-06-14)_
 
 ---
-_Updated automatically — 2025-07-15_
+_Updated automatically — 2025-07-16_
