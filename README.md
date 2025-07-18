@@ -86,6 +86,14 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 
 * **[Account Executive, Enterprise (NY Area)](https://dataminr.wd12.myworkdayjobs.com/dataminr/job/US-Remote/Account-Executive--Enterprise--NY-Area-_JR1776)** — _n/a_ _(posted 2025-06-03)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/d5rusk3oeplprdzwaplj.webp" width="24" height="24" alt="Degreed logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Degreed](https://jobo.world/company/Degreed)
+
+* **[Offensive Security Engineer](https://job-boards.greenhouse.io/degreed/jobs/5575212004)** — _n/a_ _(posted 2025-07-17)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/numhti7b6zfmpjeszdjp.webp" width="24" height="24" alt="Ditto logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ditto](https://jobo.world/company/Ditto)
+
+* **[Senior Security Engineer](https://job-boards.greenhouse.io/dittoliveincorporated/jobs/4585016006)** — _n/a_ _(posted 2025-07-17)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qu9jqnedghpqqymgn9qw.webp" width="24" height="24" alt="Docker logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Docker](https://jobo.world/company/Docker)
 
 * **[Director, Security](https://jobs.ashbyhq.com/docker/7dea51f4-0b48-4637-9537-40436317c43a)** — ¤300,000 – ¤375,000 USD _(posted 2025-07-04)_
@@ -233,10 +241,6 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 
 * **[Senior Information Security Analyst](https://jobs.smartrecruiters.com/ServiceNow/744000070861665-senior-information-security-analyst?oga=true)** — _n/a_ _(posted 2025-07-15)_
 * **[Senior Information Security Analyst](https://jobs.smartrecruiters.com/ServiceNow/744000070861280-senior-information-security-analyst?oga=true)** — _n/a_ _(posted 2025-07-15)_
-* **[Staff Information Security Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000070554741-staff-information-security-engineer?oga=true)** — _n/a_ _(posted 2025-07-14)_
-* **[Staff Information Security Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000070556197-staff-information-security-engineer?oga=true)** — _n/a_ _(posted 2025-07-14)_
-* **[Staff Information Security Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000070556125-staff-information-security-engineer?oga=true)** — _n/a_ _(posted 2025-07-14)_
-* **[Staff Information Security Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000070555645-staff-information-security-engineer?oga=true)** — _n/a_ _(posted 2025-07-14)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xtluyxvy2bihcc746mgd.webp" width="24" height="24" alt="Shift5 logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Shift5](https://jobo.world/company/Shift5)
 
@@ -246,6 +250,10 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 
 * **[Staff Security Program Manager](https://job-boards.greenhouse.io/sonicwall/jobs/6949878)** — _n/a_ _(posted 2025-06-11)_
 * **[Cloud Solution Specialist and Trainer](https://boards.greenhouse.io/sonicwall/jobs/6331721)** — _n/a_ _(posted 2025-03-22)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/y7ml2fdih8xswfhaguob.webp" width="24" height="24" alt="SpecterOps logo" style="vertical-align:middle"/>&nbsp;&nbsp;[SpecterOps](https://jobo.world/company/SpecterOps)
+
+* **[Sr. Technical Account Manager](https://job-boards.greenhouse.io/specterops/jobs/8079117002)** — ¤130,000 – ¤160,000 USD _(posted 2025-07-17)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/msxoxo4ksiqqz5qsape7.webp" width="24" height="24" alt="SpyCloud logo" style="vertical-align:middle"/>&nbsp;&nbsp;[SpyCloud](https://jobo.world/company/SpyCloud)
 
@@ -260,6 +268,7 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/e5cjw3xjodg2qzawu8c9.webp" width="24" height="24" alt="Trail of Bits logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Trail of Bits](https://jobo.world/company/TrailofBits)
 
 * **[Senior Sales Engineer (II)](https://apply.workable.com/trailofbits/j/DAC6643FC1/)** — ¤10,000 USD _(posted 2025-07-14)_
+* **[Senior Security Engineer, Application Security](https://apply.workable.com/trailofbits/j/8CCA1C640A/)** — ¤10,000 USD _(posted 2025-06-06)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hl8fe8wx2l2bblxnnty9.webp" width="24" height="24" alt="Twingate logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Twingate](https://jobo.world/company/Twingate)
 
@@ -299,4 +308,4 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 * **[Resident Engineer](https://job-boards.greenhouse.io/zscaler/jobs/4748890007)** — _n/a_ _(posted 2025-06-14)_
 
 ---
-_Updated automatically — 2025-07-17_
+_Updated automatically — 2025-07-18_
