@@ -59,10 +59,13 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hzuavimik16xkwurk8st.webp" width="24" height="24" alt="Cribl logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cribl](https://jobo.world/company/Cribl)
 
 * **[Regional Sales Manager, Austin, Tx  (Enterprise)](https://job-boards.greenhouse.io/cribl/jobs/5536703004)** — _n/a_ _(posted 2025-06-13)_
-* **[Regional Sales Manager,  Bay Area (Strategic)](https://job-boards.greenhouse.io/cribl/jobs/5546770004)** — _n/a_ _(posted 2025-05-23)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qogfqwtschjchtjlzyr3.webp" width="24" height="24" alt="Crowdstrike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Crowdstrike](https://jobo.world/company/Crowdstrike)
 
+* **[Analyst I, Falcon Complete (Hybrid, St. Louis)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Analyst-I--Falcon-Complete--Hybrid-_R23950)** — _n/a_ _(posted 2025-07-17)_
+* **[Consultant, Incident Response (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Consultant--Incident-Response--Remote-_R23906)** — _n/a_ _(posted 2025-07-16)_
+* **[Regional Sales Manager (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-NY/Regional-Sales-Manager--Remote-_R23960)** — _n/a_ _(posted 2025-07-16)_
+* **[Regional Sales Manager - Strategics (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-MN/Regional-Sales-Manager---Strategics--Remote-_R23927)** — _n/a_ _(posted 2025-07-16)_
 * **[Corporate Sales Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-TX/Corporate-Sales-Engineer--Remote-_R23766)** — _n/a_ _(posted 2025-07-15)_
 * **[Cybersecurity Technical Project Manager (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Cybersecurity-Technical-Project-Manager--Remote-_R23839)** — _n/a_ _(posted 2025-07-11)_
 * **[Sr. Security Advisor, Falcon Complete (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Security-Advisor--Falcon-Complete--Remote-_R23807)** — _n/a_ _(posted 2025-07-11)_
@@ -172,6 +175,10 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 
 * **[GRC Analyst](https://job-boards.greenhouse.io/modernizingmedicineinc/jobs/8043145002)** — _n/a_ _(posted 2025-06-20)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hst5omo3snsic12lewxv.webp" width="24" height="24" alt="NerdWallet logo" style="vertical-align:middle"/>&nbsp;&nbsp;[NerdWallet](https://jobo.world/company/NerdWallet)
+
+* **[Senior Intelligent Automation Engineer (Security)](https://jobs.ashbyhq.com/nerdwallet/360dba83-500a-4eda-a0df-9e7949d760a5)** — ¤136,000 – ¤252,000 USD _(posted 2025-07-18)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lhi0btjeoioa7qgotnxx.webp" width="24" height="24" alt="Nutrafol logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Nutrafol](https://jobo.world/company/Nutrafol)
 
 * **[Apply here to join Nutrafol&#x27;s Talent Community!](https://job-boards.greenhouse.io/nutrafol/jobs/4385354005)** — _n/a_ _(posted 2025-04-26)_
@@ -237,11 +244,6 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 
 * **[Sr. Account Executive - West](https://jobs.ashbyhq.com/sevenai/43d3743b-db70-458c-a382-ce0a073d4258)** — _n/a_ _(posted 2025-07-08)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/w1bo7icmsyka4gglxpty.webp" width="24" height="24" alt="ServiceNow logo" style="vertical-align:middle"/>&nbsp;&nbsp;[ServiceNow](https://jobo.world/company/ServiceNow)
-
-* **[Senior Information Security Analyst](https://jobs.smartrecruiters.com/ServiceNow/744000070861665-senior-information-security-analyst?oga=true)** — _n/a_ _(posted 2025-07-15)_
-* **[Senior Information Security Analyst](https://jobs.smartrecruiters.com/ServiceNow/744000070861280-senior-information-security-analyst?oga=true)** — _n/a_ _(posted 2025-07-15)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xtluyxvy2bihcc746mgd.webp" width="24" height="24" alt="Shift5 logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Shift5](https://jobo.world/company/Shift5)
 
 * **[Manager, Detections](https://job-boards.greenhouse.io/shift5/jobs/5573223004)** — _n/a_ _(posted 2025-07-14)_
@@ -268,7 +270,6 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/e5cjw3xjodg2qzawu8c9.webp" width="24" height="24" alt="Trail of Bits logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Trail of Bits](https://jobo.world/company/TrailofBits)
 
 * **[Senior Sales Engineer (II)](https://apply.workable.com/trailofbits/j/DAC6643FC1/)** — ¤10,000 USD _(posted 2025-07-14)_
-* **[Senior Security Engineer, Application Security](https://apply.workable.com/trailofbits/j/8CCA1C640A/)** — ¤10,000 USD _(posted 2025-06-06)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hl8fe8wx2l2bblxnnty9.webp" width="24" height="24" alt="Twingate logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Twingate](https://jobo.world/company/Twingate)
 
@@ -277,7 +278,6 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bpebiagnv3yocpxflsoy.webp" width="24" height="24" alt="Vanta logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Vanta](https://jobo.world/company/Vanta)
 
 * **[Senior Security Operations Analyst](https://jobs.ashbyhq.com/vanta/45d8a787-acc1-4f26-b614-414485bd4b30)** — ¤139,000 – ¤164,000 USD _(posted 2025-07-02)_
-* **[GTM GRC SME, Vanta for Government](https://jobs.ashbyhq.com/vanta/9f912902-5c10-4670-af1d-9149f8d3cc70)** — ¤163,000 – ¤192,000 USD _(posted 2025-06-21)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/cuchkrif4lug5jl6kmai.webp" width="24" height="24" alt="Virtru logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Virtru](https://jobo.world/company/Virtru)
 
@@ -308,4 +308,4 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 * **[Resident Engineer](https://job-boards.greenhouse.io/zscaler/jobs/4748890007)** — _n/a_ _(posted 2025-06-14)_
 
 ---
-_Updated automatically — 2025-07-18_
+_Updated automatically — 2025-07-19_
