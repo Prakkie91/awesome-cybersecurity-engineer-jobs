@@ -109,10 +109,6 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 
 * **[Security Operations Lead](https://job-boards.greenhouse.io/earnest/jobs/6875115)** — _n/a_ _(posted 2025-05-10)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/fitj6r32co0te54kphau.webp" width="24" height="24" alt="EnergyHub logo" style="vertical-align:middle"/>&nbsp;&nbsp;[EnergyHub](https://jobo.world/company/EnergyHub)
-
-* **[Senior Security Engineer](https://job-boards.greenhouse.io/energyhub/jobs/7990170002)** — _n/a_ _(posted 2025-05-22)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gtjtouxxcis6gyjwklzz.webp" width="24" height="24" alt="Field Nation logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Field Nation](https://jobo.world/company/Field-Nation)
 
 * **[Cloud Security Engineer](https://jobs.lever.co/fieldnation/3058da36-8611-4016-9277-1b68b1a051be)** — _n/a_ _(posted 2025-07-14)_
@@ -275,6 +271,10 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 
 * **[Create your own role](https://jobs.lever.co/twingate/c3f15f73-5725-4032-9e0b-bf8bf845f991)** — _n/a_ _(posted 2025-04-29)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/de6ctb8tmaxqgvzypnev.webp" width="24" height="24" alt="Unit 410 logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Unit 410](https://jobo.world/company/Unit410)
+
+* **[Cryptocurrency Security Engineer ](https://jobs.ashbyhq.com/unit410/44cf103d-d698-4842-9e01-73fa57cbc8ec)** — ¤150,000 – ¤200,000 USD _(posted 2025-07-19)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bpebiagnv3yocpxflsoy.webp" width="24" height="24" alt="Vanta logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Vanta](https://jobo.world/company/Vanta)
 
 * **[Senior Security Operations Analyst](https://jobs.ashbyhq.com/vanta/45d8a787-acc1-4f26-b614-414485bd4b30)** — ¤139,000 – ¤164,000 USD _(posted 2025-07-02)_
@@ -308,4 +308,4 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 * **[Resident Engineer](https://job-boards.greenhouse.io/zscaler/jobs/4748890007)** — _n/a_ _(posted 2025-06-14)_
 
 ---
-_Updated automatically — 2025-07-19_
+_Updated automatically — 2025-07-20_
