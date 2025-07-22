@@ -32,10 +32,6 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 * **[Senior Manager, Security Operations](https://job-boards.greenhouse.io/calendly/jobs/8071756002)** — _n/a_ _(posted 2025-07-12)_
 * **[Senior SOC Security Engineer](https://job-boards.greenhouse.io/calendly/jobs/8073111002)** — _n/a_ _(posted 2025-07-12)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/o3acj3q6bo0xyuhtz8zv.webp" width="24" height="24" alt="Cars Commerce logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cars Commerce](https://jobo.world/company/Cars-Commerce)
-
-* **[IT Audit Manager](https://cars.wd12.myworkdayjobs.com/cars/job/United-States-Remote/IT-Audit-Manager_JR10452)** — _n/a_ _(posted 2025-06-17)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gmn8bewvkfhrdl17hxdc.webp" width="24" height="24" alt="CDK Global logo" style="vertical-align:middle"/>&nbsp;&nbsp;[CDK Global](https://jobo.world/company/CDK-Global)
 
 * **[Sr. Network Security Engineer](https://cdk.wd1.myworkdayjobs.com/cdk/job/Remote-USA/Sr-Network-Security-Engineer_JR7991)** — _n/a_ _(posted 2025-07-15)_
@@ -59,11 +55,12 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hzuavimik16xkwurk8st.webp" width="24" height="24" alt="Cribl logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cribl](https://jobo.world/company/Cribl)
 
 * **[Regional Sales Manager, Austin, Tx  (Enterprise)](https://job-boards.greenhouse.io/cribl/jobs/5536703004)** — _n/a_ _(posted 2025-06-13)_
+* **[Regional Sales Manager,  Bay Area (Strategic)](https://job-boards.greenhouse.io/cribl/jobs/5546770004)** — _n/a_ _(posted 2025-05-23)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qogfqwtschjchtjlzyr3.webp" width="24" height="24" alt="Crowdstrike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Crowdstrike](https://jobo.world/company/Crowdstrike)
 
+* **[Sr. Engineer, Product Abuse - Product Security (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Engineer--Product-Abuse---Product-Security--Remote-_R23984)** — _n/a_ _(posted 2025-07-18)_
 * **[Analyst I, Falcon Complete (Hybrid, St. Louis)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Analyst-I--Falcon-Complete--Hybrid-_R23950)** — _n/a_ _(posted 2025-07-17)_
-* **[Consultant, Incident Response (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Consultant--Incident-Response--Remote-_R23906)** — _n/a_ _(posted 2025-07-16)_
 * **[Regional Sales Manager (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-NY/Regional-Sales-Manager--Remote-_R23960)** — _n/a_ _(posted 2025-07-16)_
 * **[Regional Sales Manager - Strategics (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-MN/Regional-Sales-Manager---Strategics--Remote-_R23927)** — _n/a_ _(posted 2025-07-16)_
 * **[Corporate Sales Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-TX/Corporate-Sales-Engineer--Remote-_R23766)** — _n/a_ _(posted 2025-07-15)_
@@ -308,4 +305,4 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 * **[Resident Engineer](https://job-boards.greenhouse.io/zscaler/jobs/4748890007)** — _n/a_ _(posted 2025-06-14)_
 
 ---
-_Updated automatically — 2025-07-20_
+_Updated automatically — 2025-07-22_
