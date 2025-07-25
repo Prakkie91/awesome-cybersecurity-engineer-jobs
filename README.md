@@ -130,6 +130,7 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ih7xwdumptjo0d31rw7e.webp" width="24" height="24" alt="HackerOne logo" style="vertical-align:middle"/>&nbsp;&nbsp;[HackerOne](https://jobo.world/company/HackerOne)
 
 * **[Community Manager, Hacking Events](https://jobs.ashbyhq.com/hackerone/68be2914-9fb5-4122-9a2f-3f71891a46ee)** — ¤91,000 – ¤121,000 USD _(posted 2025-07-15)_
+* **[Principal Product Manager, Data](https://jobs.ashbyhq.com/hackerone/8f610731-b01e-4fbc-b953-35151d51c964)** — ¤190,800 – ¤265,000 USD _(posted 2025-05-26)_
 * **[Senior Software Engineer, AI](https://jobs.ashbyhq.com/hackerone/1a9d0d89-58ac-4445-9645-d27422f797e0)** — ¤147,000 – ¤184,000 USD _(posted 2025-05-23)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ndsgzy63mycn4gatbqgq.webp" width="24" height="24" alt="Headspace logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Headspace](https://jobo.world/company/Headspace)
@@ -155,6 +156,10 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 
 * **[Security Engineer](https://jobs.ashbyhq.com/injective-labs/cb59e282-9bc9-48cb-aff5-22c3af1e95f8)** — _n/a_ _(posted 2025-07-11)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/jqkoo9bpphunfsb4j3bk.webp" width="24" height="24" alt="Makpar logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Makpar](https://jobo.world/company/Makpar)
+
+* **[Threat Simulation Environment Administrator](https://jobs.lever.co/makpar/13f91c75-51a3-4388-ab82-f33962525e1e)** — _n/a_ _(posted 2025-06-03)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/iuhpcceshtzjaftxt8fh.webp" width="24" height="24" alt="Manifold Bio logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Manifold Bio](https://jobo.world/company/ManifoldBio)
 
 * **[Senior Security Engineer](https://job-boards.greenhouse.io/manifoldai/jobs/6608251003)** — _n/a_ _(posted 2025-06-13)_
@@ -166,10 +171,6 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/w2dz2cahnjcntso7vhoz.webp" width="24" height="24" alt="Mercury logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Mercury](https://jobo.world/company/Mercury)
 
 * **[GRC Analyst](https://job-boards.greenhouse.io/mercury/jobs/5579398004)** — _n/a_ _(posted 2025-07-04)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pnwdqpdiaxfiitadf4ga.webp" width="24" height="24" alt="Modernizing Medicine logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Modernizing Medicine](https://jobo.world/company/ModMed)
-
-* **[GRC Analyst](https://job-boards.greenhouse.io/modernizingmedicineinc/jobs/8043145002)** — _n/a_ _(posted 2025-06-20)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hst5omo3snsic12lewxv.webp" width="24" height="24" alt="NerdWallet logo" style="vertical-align:middle"/>&nbsp;&nbsp;[NerdWallet](https://jobo.world/company/NerdWallet)
 
@@ -286,10 +287,6 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 
 * **[Senior Cybersecurity Product Marketing Manager - Data Security Platform](https://job-boards.greenhouse.io/virtru/jobs/4576771005)** — ¤160,000 – ¤195,000 USD _(posted 2025-06-18)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pymeafuvdduligbqec1b.webp" width="24" height="24" alt="Wander logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Wander](https://jobo.world/company/Wander)
-
-* **[Senior Cybersecurity Engineer](https://jobs.ashbyhq.com/wander/4e417ae5-f73b-4096-8977-cd5c23d02960)** — _n/a_ _(posted 2025-03-12)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/o6ilnhybzosulwkqff2b.webp" width="24" height="24" alt="WatchGuard Technologies logo" style="vertical-align:middle"/>&nbsp;&nbsp;[WatchGuard Technologies](https://jobo.world/company/WatchGuard-Technologies,-Inc.)
 
 * **[National Partner Sales Engineer](https://jobs.lever.co/watchguard/6d2ff4bf-de19-425c-b53f-548c8588829c)** — _n/a_ _(posted 2025-07-02)_
@@ -311,4 +308,4 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 * **[Resident Engineer](https://job-boards.greenhouse.io/zscaler/jobs/4748890007)** — _n/a_ _(posted 2025-06-14)_
 
 ---
-_Updated automatically — 2025-07-24_
+_Updated automatically — 2025-07-25_
