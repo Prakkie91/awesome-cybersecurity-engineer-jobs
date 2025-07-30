@@ -51,12 +51,9 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 
 * **[VP, Security](https://clio.wd3.myworkdayjobs.com/cliocareersite/job/Remote---USA/VP--Security_BF-REQ-2700)** — _n/a_ _(posted 2025-03-11)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hzuavimik16xkwurk8st.webp" width="24" height="24" alt="Cribl logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cribl](https://jobo.world/company/Cribl)
-
-* **[Regional Sales Manager, Austin, Tx  (Enterprise)](https://job-boards.greenhouse.io/cribl/jobs/5536703004)** — _n/a_ _(posted 2025-06-13)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qogfqwtschjchtjlzyr3.webp" width="24" height="24" alt="Crowdstrike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Crowdstrike](https://jobo.world/company/Crowdstrike)
 
+* **[Sr. Product Public Relations Manager (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Product-Public-Relations-Manager--Remote-_R24005)** — _n/a_ _(posted 2025-07-28)_
 * **[Sr. Consultant, Platform Professional Services (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Consultant--Platform-Professional-Services--Remote-_R24045)** — _n/a_ _(posted 2025-07-23)_
 * **[Penetration Test Engineer II (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Penetration-Test-Engineer-II--Remote-_R23991)** — _n/a_ _(posted 2025-07-22)_
 * **[Platform Professional Services, Sr. Consultant (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-NY/Platform-Professional-Services--Sr-Consultant--Remote-_R23971)** — _n/a_ _(posted 2025-07-22)_
@@ -76,7 +73,10 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 * **[Platform Professional Services Consultant (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-NY/Platform-Professional-Services-Consultant--Remote-_R23302)** — _n/a_ _(posted 2025-05-22)_
 * **[Regional Sales Engineer, PubSec (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CO/Regional-Sales-Engineer--PubSec--Remote-_R23124)** — _n/a_ _(posted 2025-05-06)_
 * **[Professional Services Project Manager - NG-SIEM (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Professional-Services-Project-Manager---NG-SIEM--Remote-_R22119-1)** — _n/a_ _(posted 2025-03-24)_
-* **[Sr. Threat Researcher II (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Threat-Researcher-II--Remote-_R22634)** — _n/a_ _(posted 2025-03-20)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rlloutuggdwvprolzosi.webp" width="24" height="24" alt="Dataminr logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Dataminr](https://jobo.world/company/Dataminr)
+
+* **[Account Executive, Enterprise (NY Area)](https://dataminr.wd12.myworkdayjobs.com/dataminr/job/US-Remote/Account-Executive--Enterprise--NY-Area-_JR1776)** — _n/a_ _(posted 2025-06-03)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uy3ifw1k0xtbsujpqhns.webp" width="24" height="24" alt="Dick's Sporting Goods logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Dick's Sporting Goods](https://jobo.world/company/Dicks-Sporting-Goods)
 
@@ -89,6 +89,10 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qu9jqnedghpqqymgn9qw.webp" width="24" height="24" alt="Docker logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Docker](https://jobo.world/company/Docker)
 
 * **[Director, Security](https://jobs.ashbyhq.com/docker/7dea51f4-0b48-4637-9537-40436317c43a)** — ¤300,000 – ¤375,000 USD _(posted 2025-07-04)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uvtvlvbxg7mfwranskjf.webp" width="24" height="24" alt="Dopple logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Dopple](https://jobo.world/company/Dopple)
+
+* **[Channel Account Manager](https://jobs.ashbyhq.com/doppel/f81861f8-d942-4b77-996a-7ad980d9acee)** — _n/a_ _(posted 2025-06-18)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rtyne9b2pdyqncaygzud.webp" width="24" height="24" alt="Earnest logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Earnest](https://jobo.world/company/Earnest)
 
@@ -144,7 +148,6 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 
 * **[Sales Engineer - MSP](https://job-boards.greenhouse.io/huntress/jobs/6609476003)** — ¤155,000 – ¤170,000 USD _(posted 2025-06-18)_
 * **[Staff Software Engineer - SOC (Ruby/Rails)](https://job-boards.greenhouse.io/huntress/jobs/6613258003)** — ¤195,000 – ¤210,000 USD _(posted 2025-06-18)_
-* **[Associate Sales Engineer](https://job-boards.greenhouse.io/huntress/jobs/6606735003)** — ¤115,000 – ¤130,000 USD _(posted 2025-06-14)_
 * **[Sales Engineer](https://job-boards.greenhouse.io/huntress/jobs/6599652003)** — ¤150,000 – ¤165,000 USD _(posted 2025-06-11)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mpp2byeruuzwpv1kysyv.webp" width="24" height="24" alt="Immersive Labs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Immersive Labs](https://jobo.world/company/ImmersiveLabs)
@@ -311,4 +314,4 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 * **[Resident Engineer](https://job-boards.greenhouse.io/zscaler/jobs/4748890007)** — _n/a_ _(posted 2025-06-14)_
 
 ---
-_Updated automatically — 2025-07-29_
+_Updated automatically — 2025-07-30_
