@@ -8,6 +8,8 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xrhzpur0rgprhnivjeq9.webp" width="24" height="24" alt="1Password logo" style="vertical-align:middle"/>&nbsp;&nbsp;[1Password](https://jobo.world/company/1Password)
 
+* **[Staff Technical Program Manager, Security Engineering](https://jobs.ashbyhq.com/1password/bea5600a-8c62-4125-abe1-970f5700a892)** — _n/a_ _(posted 2025-08-01)_
+* **[Analyst Relations Director](https://jobs.ashbyhq.com/1password/915d2e89-0495-42ca-b8eb-bbd689deb808)** — _n/a_ _(posted 2025-08-01)_
 * **[Sr. Content Marketing Manager](https://jobs.lever.co/1password/04a8738b-59d3-4a95-89c7-55ead7806b03)** — _n/a_ _(posted 2025-04-22)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ytq0iq1fcp579zoqmu0w.webp" width="24" height="24" alt="Aledade logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Aledade](https://jobo.world/company/Aledade)
@@ -64,6 +66,7 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 * **[Regional Sales Manager (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-NY/Regional-Sales-Manager--Remote-_R23960)** — _n/a_ _(posted 2025-07-16)_
 * **[Regional Sales Manager - Strategics (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-MN/Regional-Sales-Manager---Strategics--Remote-_R23927)** — _n/a_ _(posted 2025-07-16)_
 * **[Cybersecurity Technical Project Manager (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Cybersecurity-Technical-Project-Manager--Remote-_R23839)** — _n/a_ _(posted 2025-07-11)_
+* **[Business Development Manager, Technology Ecosystems (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Business-Development-Manager--Technology-Ecosystems--Remote-_R23886)** — _n/a_ _(posted 2025-07-11)_
 * **[Security Researcher - Malware Reverse Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Security-Researcher---Malware-Reverse-Engineer--Remote-_R23797)** — _n/a_ _(posted 2025-07-10)_
 * **[SkillBridge CSIRT, Incident Response Analyst (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/SkillBridge-CSIRT--Incident-Response-Analyst--Remote-_R23784)** — _n/a_ _(posted 2025-07-07)_
 * **[Regional Sales Manager, Enterprise (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-TX/Regional-Sales-Manager--Enterprise--Remote-_R23679)** — _n/a_ _(posted 2025-07-07)_
@@ -93,10 +96,6 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 
 * **[Director, Security](https://jobs.ashbyhq.com/docker/7dea51f4-0b48-4637-9537-40436317c43a)** — ¤300,000 – ¤375,000 USD _(posted 2025-07-04)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uvtvlvbxg7mfwranskjf.webp" width="24" height="24" alt="Dopple logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Dopple](https://jobo.world/company/Dopple)
-
-* **[Channel Account Manager](https://jobs.ashbyhq.com/doppel/f81861f8-d942-4b77-996a-7ad980d9acee)** — _n/a_ _(posted 2025-06-18)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rtyne9b2pdyqncaygzud.webp" width="24" height="24" alt="Earnest logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Earnest](https://jobo.world/company/Earnest)
 
 * **[Security Operations Lead](https://job-boards.greenhouse.io/earnest/jobs/6875115)** — _n/a_ _(posted 2025-05-10)_
@@ -115,12 +114,7 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/t2lg8tsc975fgvyr54yk.webp" width="24" height="24" alt="Flock Safety logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flock Safety](https://jobo.world/company/FlockSafety)
 
-* **[Manager, Cyber Defense](https://jobs.ashbyhq.com%2Fflock%2520safety%2Fc0e0743c-1ff1-4f27-9c92-0955bfa29a1b)** — ¤177,800 – ¤296,300 USD _(posted 2025-07-04)_
 * **[Director of Information Security ](https://jobs.ashbyhq.com%2Fflock%2520safety%2Fe6238748-87ac-4c17-bb14-1a0826054132)** — ¤170,000 – ¤220,000 USD _(posted 2025-06-18)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zgqcsfkldxiprozqirso.webp" width="24" height="24" alt="Granicus logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Granicus](https://jobo.world/company/Granicus)
-
-* **[Manager, Information Security &amp; Compliance (CJIS)](https://jobs.lever.co/granicus/ab3cb5f4-dc40-4833-86e5-92961f513bca)** — _n/a_ _(posted 2025-04-18)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vxwchnvnoozhprfexqf6.webp" width="24" height="24" alt="Graphite logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Graphite](https://jobo.world/company/Graphite)
 
@@ -140,14 +134,13 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zcr2yjsivoviphozj9y6.webp" width="24" height="24" alt="Humana logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Humana](https://jobo.world/company/Humana)
 
+* **[Lead Detection Engineer(remote)](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Lead-Detection-Engineer-remote-_R-384048)** — _n/a_ _(posted 2025-07-31)_
 * **[Sr CyberSecurity Engineer](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Sr-CyberSecurity-Engineer_R-381132)** — _n/a_ _(posted 2025-07-25)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tbsfjuwuyescyatdwvwq.webp" width="24" height="24" alt="Huntress logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Huntress](https://jobo.world/company/Huntress)
 
-* **[Security Operations Analyst- Pacific Time Zone](https://job-boards.greenhouse.io/huntress/jobs/6619742003)** — ¤100,000 – ¤120,000 USD _(posted 2025-06-27)_
 * **[Sales Engineer - MSP](https://job-boards.greenhouse.io/huntress/jobs/6609476003)** — ¤155,000 – ¤170,000 USD _(posted 2025-06-18)_
 * **[Staff Software Engineer - SOC (Ruby/Rails)](https://job-boards.greenhouse.io/huntress/jobs/6613258003)** — ¤195,000 – ¤210,000 USD _(posted 2025-06-18)_
-* **[Sales Engineer](https://job-boards.greenhouse.io/huntress/jobs/6599652003)** — ¤150,000 – ¤165,000 USD _(posted 2025-06-11)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mpp2byeruuzwpv1kysyv.webp" width="24" height="24" alt="Immersive Labs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Immersive Labs](https://jobo.world/company/ImmersiveLabs)
 
@@ -251,6 +244,7 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/msxoxo4ksiqqz5qsape7.webp" width="24" height="24" alt="SpyCloud logo" style="vertical-align:middle"/>&nbsp;&nbsp;[SpyCloud](https://jobo.world/company/SpyCloud)
 
+* **[Security Researcher III](https://job-boards.greenhouse.io/spycloud/jobs/6661085003)** — _n/a_ _(posted 2025-08-01)_
 * **[Sales Engineer - Federal](https://job-boards.greenhouse.io/spycloud/jobs/6642884003)** — _n/a_ _(posted 2025-07-11)_
 * **[Senior Security Research Engineer](https://job-boards.greenhouse.io/spycloud/jobs/6608205003)** — _n/a_ _(posted 2025-06-18)_
 * **[Security Engineer, Infrastructure Security](https://job-boards.greenhouse.io/spycloud/jobs/6605814003)** — _n/a_ _(posted 2025-06-13)_
@@ -308,4 +302,4 @@ Browse a wide range of remote Cybersecurity Engineer positions available globall
 * **[Resident Engineer](https://job-boards.greenhouse.io/zscaler/jobs/4748890007)** — _n/a_ _(posted 2025-06-14)_
 
 ---
-_Updated automatically — 2025-08-01_
+_Updated automatically — 2025-08-02_
